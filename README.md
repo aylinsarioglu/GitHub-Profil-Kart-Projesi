@@ -7,8 +7,5 @@ GitHub sitesinde rahatlıkla profilleri bulmak için yapılan bir projedir.Geli�
 Html,Css,Js
 
 # Ekran Kaydı
-
-https://github.com/user-attachments/assets/9f2fc3a2-49d6-4122-8e62-adb2143b6b59
-
-
+https://github.com/user-attachments/assets/0c7b4bd1-b27b-4cb1-944d-60e3a9012df0
 
